@@ -1,0 +1,55 @@
+
+
+*********************************
+Name = Sakib Rahman
+Student ID = 2004084
+Department Name = Computer Science and Engineering
+Phone Number = 98476893476
+Birth = th May 2002
+Blood Group = B-
+
+*********************************
+
+
+*********************************
+Name = Nahin Munkar
+Student ID = 2004073
+Department Name = CSE
+Phone Number = 985908094853
+Birth = 7-09-2002
+Blood Group = B+
+
+*********************************
+
+
+*********************************
+Name = Towhid Al Faysal
+Student ID = 2004073
+Department Name = Computer Science and Engineering
+Phone Number = 0187787474
+Birth = th september 2002
+Blood Group = B+
+
+*********************************
+
+
+*********************************
+Name = Abid Hossain
+Student ID = 2004088
+Department Name = Computer Science & Engineering
+Phone Number = 475847676979
+Birth = th may 2002
+Blood Group = B+
+
+*********************************
+
+
+*********************************
+Name = Adid Rahman
+Student ID = 2004082
+Department Name = CSE
+Phone Number = 846748376873
+Birth = 0th may 2001
+Blood Group = O-
+
+*********************************
